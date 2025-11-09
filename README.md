@@ -1,7 +1,6 @@
 # Ansible Configuration for Homelab VMs
 
-This folder contains Ansible playbooks and inventory to configure VMs deployed via Terraform in this repo.
-
+This folder contains Ansible config for environment automation
 ## Folder Structure
 
 ``` 
